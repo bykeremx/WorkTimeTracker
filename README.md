@@ -20,4 +20,4 @@ This simple **PHP** application calculates the total time worked by recording us
 ## 🚀 Kurulum / Installation  
 1. 📥 **Projeyi klonlayın / Clone the repository:**  
    ```bash
-   git clone https://github.com/kullanıcı_adınız/proje_adı.git
+   git clone https://github.com/bykeremx/WorkTimeTracker.git
