@@ -1,0 +1,122 @@
+body {
+    background: linear-gradient(270deg, #f74629, #3e4dff, #fb2c6b, #f2ab26);
+    background-size: 800% 800%;
+
+    -webkit-animation: buttoneffect 48s ease infinite;
+    -moz-animation: buttoneffect 48s ease infinite;
+    animation: buttoneffect 48s ease infinite;
+}
+
+@-webkit-keyframes buttoneffect {
+    0%{background-position:0% 59%}
+    50%{background-position:100% 42%}
+    100%{background-position:0% 59%}
+}
+@-moz-keyframes buttoneffect {
+    0%{background-position:0% 59%}
+    50%{background-position:100% 42%}
+    100%{background-position:0% 59%}
+}
+@keyframes buttoneffect {
+    0%{background-position:0% 59%}
+    50%{background-position:100% 42%}
+    100%{background-position:0% 59%}
+}
+.giris-panel {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px !important;
+    background-color: white;
+    border-radius: 20px;
+}
+/* .button_giris {
+    background-color: red !important;
+} */
+.button_giris {
+    background: linear-gradient(270deg, #ff2d0b, #0313ca, #cd0f49, #fdb52d);
+    background-size: 800% 800%;
+    color:  white !important;
+    transition:  all 0.2s;
+    -webkit-animation: buttoneffect 48s ease infinite;
+    -moz-animation: buttoneffect 48s ease infinite;
+    animation: buttoneffect 20s ease infinite;
+    
+}
+@-webkit-keyframes buttoneffect {
+    0%{background-position:0% 59%}
+    50%{background-position:100% 42%}
+    100%{background-position:0% 59%}
+}
+@-moz-keyframes buttoneffect {
+    0%{background-position:0% 59%}
+    50%{background-position:100% 42%}
+    100%{background-position:0% 59%}
+}
+@keyframes buttoneffect {
+    0%{background-position:0% 59%}
+    50%{background-position:100% 42%}
+    100%{background-position:0% 59%}
+}
+.form_desing {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border:0px !important;
+    border-bottom:3px solid #7b7b7b !important;
+}
+.alert_desing {
+    border:none !important;
+}
+/* .bg-alert-design {
+    background-color: #f7b437b1 !important;
+} */
+.bg-alert-design {
+    background: linear-gradient(270deg, #2d3ef9, #ffc251);
+    background-size: 800% 800%;
+    color:  white !important;
+    transition:  all 0.2s;
+    -webkit-animation: buttoneffect 48s ease infinite;
+    -moz-animation: buttoneffect 48s ease infinite;
+    animation: buttoneffect 10s ease infinite;
+    
+}
+@-webkit-keyframes buttoneffect {
+    0%{background-position:0% 59%}
+    50%{background-position:100% 42%}
+    100%{background-position:0% 59%}
+}
+@-moz-keyframes buttoneffect {
+    0%{background-position:0% 59%}
+    50%{background-position:100% 42%}
+    100%{background-position:0% 59%}
+}
+@keyframes buttoneffect {
+    0%{background-position:0% 59%}
+    50%{background-position:100% 42%}
+    100%{background-position:0% 59%}
+}
+
+
+.btn-desing-list{
+    background: linear-gradient(270deg, #272727, #ff6a6a);
+    background-size: 800% 800%;
+    color:  white !important;
+    border:0px !important;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    transition:  all 0.2s;
+    -webkit-animation: buttoneffect 48s ease infinite;
+    -moz-animation: buttoneffect 48s ease infinite;
+    animation: buttoneffect 20s ease infinite;
+    
+}
+@-webkit-keyframes buttoneffect {
+    0%{background-position:0% 59%}
+    50%{background-position:100% 42%}
+    100%{background-position:0% 59%}
+}
+@-moz-keyframes buttoneffect {
+    0%{background-position:0% 59%}
+    50%{background-position:100% 42%}
+    100%{background-position:0% 59%}
+}
+@keyframes buttoneffect {
+    0%{background-position:0% 59%}
+    50%{background-position:100% 42%}
+    100%{background-position:0% 59%}
+}
